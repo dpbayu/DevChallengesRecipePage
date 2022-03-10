@@ -74,6 +74,15 @@ div .icon {
     font-size: 14px;
 }
 
+.imgBox {
+    margin: 5px 0;
+}
+
+.imgBox img {
+    height: 500px;
+    width: 100%;
+}
+
 .text-1 h1 {
     margin: 30px 0;
     font-family: Playfair Display;
@@ -170,7 +179,7 @@ div .icon {
 h5 {
     color: #BDBDBD;
     margin: 30px 0;
-    width: 500px;
+    width: fit-content;
     font-style: italic;
     font-weight: 400;
     font-size: 16px;
