@@ -29,8 +29,13 @@ body {
     margin-bottom: 30px;
 }
 
+div .icon {
+    width: min-content;
+}
+
 .subtitle .text {
     display: flex;
+    width: fit-content;
 }
 
 .subtitle h2 {
