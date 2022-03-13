@@ -37,8 +37,8 @@
 
 ## Overview
 
-![Screenshot 2022-03-11 024711](https://user-images.githubusercontent.com/74140729/157744934-8704c098-df6d-4c7b-9a88-2df7e63c69a0.png)
-![Screenshot 2022-03-11 024742](https://user-images.githubusercontent.com/74140729/157744962-b86eb5e1-cc9f-4dc8-bee3-83734f591bf4.png)
+![Recipe-Page](https://user-images.githubusercontent.com/74140729/158057513-7f4d75a0-ad55-4f58-b3e7-3e0a1b59879f.png)
+![Recipe-Page (1)](https://user-images.githubusercontent.com/74140729/158057515-6637d0b7-fb96-4c73-9bbc-bf26ad86aa07.png)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
