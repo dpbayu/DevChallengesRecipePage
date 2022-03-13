@@ -20,6 +20,14 @@
         width: 100%;
     }
 
+    .form-check label {
+        font-size: 14px;
+    }
+
+    .form .text h2 {
+        font-size: 14px;
+    }
+
     .box {
         justify-content: flex-start;
         flex-wrap: wrap;
