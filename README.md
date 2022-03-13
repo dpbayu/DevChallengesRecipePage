@@ -38,7 +38,7 @@
 ## Overview
 
 ![Recipe-Page](https://user-images.githubusercontent.com/74140729/158057513-7f4d75a0-ad55-4f58-b3e7-3e0a1b59879f.png)
-![Recipe-Page (1)](https://user-images.githubusercontent.com/74140729/158057515-6637d0b7-fb96-4c73-9bbc-bf26ad86aa07.png)
+![Recipe-Page](https://user-images.githubusercontent.com/74140729/158057659-631c4272-ae0c-49a8-b7d2-06190e0267c9.png)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
